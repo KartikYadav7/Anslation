@@ -2,7 +2,6 @@
 
 A simple React counter application with increment, decrement, and reset functionality.
 
-
 # 🚀 Setup Instructions 
 ```
 git clone <repository-url>
@@ -28,7 +27,7 @@ Buttons are rendered dynamically from a configuration array for cleaner and reus
 
 # 🖼️ Screenshot
 
-(./Screenshot.png)
+![App Screenshot](./public/Screenshot.png)
 
 
 # 🛠️ Tech Stack  
